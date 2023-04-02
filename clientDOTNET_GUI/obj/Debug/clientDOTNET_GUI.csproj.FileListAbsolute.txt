@@ -1,0 +1,11 @@
+C:\Users\ab_za\Documents\GitHub\Web-services-SOAP-WSDL-UDDI-TP2\clientDOTNET_GUI\obj\Debug\clientDOTNET_GUI.csproj.AssemblyReference.cache
+C:\Users\ab_za\Documents\GitHub\Web-services-SOAP-WSDL-UDDI-TP2\clientDOTNET_GUI\obj\Debug\clientDOTNET_GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\ab_za\Documents\GitHub\Web-services-SOAP-WSDL-UDDI-TP2\clientDOTNET_GUI\obj\Debug\clientDOTNET_GUI.Properties.Resources.resources
+C:\Users\ab_za\Documents\GitHub\Web-services-SOAP-WSDL-UDDI-TP2\clientDOTNET_GUI\obj\Debug\clientDOTNET_GUI.csproj.GenerateResource.cache
+C:\Users\ab_za\Documents\GitHub\Web-services-SOAP-WSDL-UDDI-TP2\clientDOTNET_GUI\obj\Debug\clientDOTNET_GUI.csproj.CoreCompileInputs.cache
+C:\Users\ab_za\Documents\GitHub\Web-services-SOAP-WSDL-UDDI-TP2\clientDOTNET_GUI\obj\Debug\clientDOTNET_GUI.Form1.resources
+C:\Users\ab_za\Documents\GitHub\Web-services-SOAP-WSDL-UDDI-TP2\clientDOTNET_GUI\bin\Debug\clientDOTNET_GUI.exe.config
+C:\Users\ab_za\Documents\GitHub\Web-services-SOAP-WSDL-UDDI-TP2\clientDOTNET_GUI\bin\Debug\clientDOTNET_GUI.exe
+C:\Users\ab_za\Documents\GitHub\Web-services-SOAP-WSDL-UDDI-TP2\clientDOTNET_GUI\bin\Debug\clientDOTNET_GUI.pdb
+C:\Users\ab_za\Documents\GitHub\Web-services-SOAP-WSDL-UDDI-TP2\clientDOTNET_GUI\obj\Debug\clientDOTNET_GUI.exe
+C:\Users\ab_za\Documents\GitHub\Web-services-SOAP-WSDL-UDDI-TP2\clientDOTNET_GUI\obj\Debug\clientDOTNET_GUI.pdb

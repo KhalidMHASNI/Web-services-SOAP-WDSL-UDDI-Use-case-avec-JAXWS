@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Web services SOAP WDSL UDDI Use case avec JAXWS" />
+        <module name="Web Server" />
       </profile>
     </annotationProcessing>
   </component>
